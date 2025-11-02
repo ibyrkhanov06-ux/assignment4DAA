@@ -1,0 +1,10 @@
+File,Nodes,Edges,Type,SCC Count,Execution Time (ms)
+tasks_small.json,6,5,Cyclic,4,1.684
+tasks_small_2.json,7,6,Cyclic,5,0.075
+tasks_small_3.json,8,6,Acyclic,8,0.094
+tasks_medium.json,12,13,Cyclic,8,0.071
+tasks_medium_2.json,14,13,Cyclic,10,0.083
+tasks_medium_3.json,16,14,Cyclic,10,0.114
+tasks_large.json,25,24,Acyclic,25,0.221
+tasks_large_2.json,30,28,Acyclic,30,0.207
+tasks_large_3.json,35,34,Cyclic,31,0.184
